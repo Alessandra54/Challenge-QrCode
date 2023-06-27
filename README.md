@@ -32,7 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/Alessandra54)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: [Link](https://alessandra54.github.io/Challenge-QrCode/)
 
 ## My process
 
@@ -68,5 +68,5 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Link](https://alessandra54.github.io/Challenge-QrCode/)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/yourusername)
